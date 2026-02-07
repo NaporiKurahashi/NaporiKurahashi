@@ -10,8 +10,6 @@
 - 応用情報技術者
 
 ## リンク
-- [Twitter](https://twitter.com/Yakushigawa_N)
-- [Qiita](https://qiita.com/Yakushigawa_N)
 
 ## 主な活動
 - 準備中
